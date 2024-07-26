@@ -1,0 +1,36 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    min-width: 400px;
+    color: green;
+}
+
+input{
+    width: 100%;
+    margin: 10px 0px;
+    padding: 7px;
+    border: 1px solid grey;
+}
+button{
+    background-color: green;
+    color: white;
+    border: 1px solid green;
+    margin: 5px 0px;
+    border: none;
+    padding: 10px 20px;
+}
+ul{
+    padding-left: 0%;
+}
+
+#delete-btn{
+    color:green;
+    background: white;
+    border: 1px solid green;
+}
+li{
+    list-style: none;
+    margin: 5px 0px;
+}
+a{
+    color: green;
+}
